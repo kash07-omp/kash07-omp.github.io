@@ -1,3 +1,5 @@
 # project-me
 
-I have created this project to develop a personal website dedicated to exposing who I am, how I work and what I like. In addition to all my projects.
+This project is a playground.
+
+This is where my projects as a developer will be in the future, but for now it's just a small playing field where I do style tests.
